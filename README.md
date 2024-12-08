@@ -19,3 +19,7 @@ Delete infrastructure
 ```shell
 sam delete
 ```
+
+## References
+
+- https://github.com/aws/serverless-java-container/tree/main/samples/springboot3/pet-store-native
